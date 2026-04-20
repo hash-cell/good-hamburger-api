@@ -1,0 +1,337 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.API\\GoodHamburger.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.API\\GoodHamburger.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.API\\GoodHamburger.API.csproj",
+        "projectName": "GoodHamburger.API",
+        "projectPath": "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.API\\GoodHamburger.API.csproj",
+        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.Application\\GoodHamburger.Application.csproj": {
+                "projectPath": "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.Application\\GoodHamburger.Application.csproj"
+              },
+              "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.Infrastructure\\GoodHamburger.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.Infrastructure\\GoodHamburger.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.25, 8.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.Application\\GoodHamburger.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.Application\\GoodHamburger.Application.csproj",
+        "projectName": "GoodHamburger.Application",
+        "projectPath": "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.Application\\GoodHamburger.Application.csproj",
+        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.Domain\\GoodHamburger.Domain.csproj": {
+                "projectPath": "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.Domain\\GoodHamburger.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.Domain\\GoodHamburger.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.Domain\\GoodHamburger.Domain.csproj",
+        "projectName": "GoodHamburger.Domain",
+        "projectPath": "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.Domain\\GoodHamburger.Domain.csproj",
+        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.Infrastructure\\GoodHamburger.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.Infrastructure\\GoodHamburger.Infrastructure.csproj",
+        "projectName": "GoodHamburger.Infrastructure",
+        "projectPath": "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.Infrastructure\\GoodHamburger.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.Application\\GoodHamburger.Application.csproj": {
+                "projectPath": "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.Application\\GoodHamburger.Application.csproj"
+              },
+              "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.Domain\\GoodHamburger.Domain.csproj": {
+                "projectPath": "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.Domain\\GoodHamburger.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

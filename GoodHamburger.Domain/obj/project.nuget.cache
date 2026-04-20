@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nvjZmA7Xt0A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victo\\OneDrive\\Desktop\\GoodHamburger\\GoodHamburger.Domain\\GoodHamburger.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

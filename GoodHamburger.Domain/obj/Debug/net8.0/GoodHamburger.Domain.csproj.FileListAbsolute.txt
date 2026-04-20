@@ -1,0 +1,11 @@
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Domain\obj\Debug\net8.0\GoodHamburger.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Domain\obj\Debug\net8.0\GoodHamburger.Domain.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Domain\obj\Debug\net8.0\GoodHamburger.Domain.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Domain\obj\Debug\net8.0\GoodHamburger.Domain.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Domain\bin\Debug\net8.0\GoodHamburger.Domain.deps.json
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Domain\bin\Debug\net8.0\GoodHamburger.Domain.dll
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Domain\bin\Debug\net8.0\GoodHamburger.Domain.pdb
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Domain\obj\Debug\net8.0\GoodHamburger.Domain.dll
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Domain\obj\Debug\net8.0\refint\GoodHamburger.Domain.dll
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Domain\obj\Debug\net8.0\GoodHamburger.Domain.pdb
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Domain\obj\Debug\net8.0\ref\GoodHamburger.Domain.dll

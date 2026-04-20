@@ -1,0 +1,17 @@
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Infrastructure\bin\Debug\net8.0\GoodHamburger.Infrastructure.deps.json
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Infrastructure\bin\Debug\net8.0\GoodHamburger.Infrastructure.dll
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Infrastructure\bin\Debug\net8.0\GoodHamburger.Infrastructure.pdb
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Infrastructure\bin\Debug\net8.0\GoodHamburger.Application.dll
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Infrastructure\bin\Debug\net8.0\GoodHamburger.Domain.dll
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Infrastructure\bin\Debug\net8.0\GoodHamburger.Domain.pdb
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Infrastructure\bin\Debug\net8.0\GoodHamburger.Application.pdb
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamburger.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamburger.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamburger.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamburger.Infrastructure.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamburger.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamb.5C53B714.Up2Date
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamburger.Infrastructure.dll
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\refint\GoodHamburger.Infrastructure.dll
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamburger.Infrastructure.pdb
+C:\Users\victo\OneDrive\Desktop\GoodHamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\ref\GoodHamburger.Infrastructure.dll
